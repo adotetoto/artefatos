@@ -1,4 +1,4 @@
-# artefatos
+# Artefatos
 Artefatos do trabalho de conclusão do curso de ADS
 
 ## São eles : 
