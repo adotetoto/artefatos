@@ -1,5 +1,8 @@
-# Artefatos
-Artefatos do trabalho de conclusão do curso de ADS
+# ARTEFATOS
 
-## São eles : 
-- [Canvas MVP](https://github.com/adotetoto/artefatos/blob/main/artefatos-%20CANVAS%20(%20%20PROVISORIO%20).jpg)
+Artefatos do trabalho de projeto e desenvolvimento 2
+
+- CANVAS
+- PRODUCT BACKLOG E ESTÓRIAS DE USUÁRIOS
+- BENCHMARKING
+- PERSONAS
